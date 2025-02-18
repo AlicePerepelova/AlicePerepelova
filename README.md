@@ -25,14 +25,3 @@ https://career.habr.com/aliceperepelova
 </p>
 
 
-
-
-### 🧑‍💻 This week I spent my time on
-<!--START_SECTION:waka-->
-
-```txt
-Image (svg)   50 mins         ████████████████████████░   95.68 %
-Other         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-```
-
-<!--END_SECTION:waka-->
