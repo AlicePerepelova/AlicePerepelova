@@ -2,7 +2,7 @@
 <h3 align="center"> QA Engineer</h3>
 
 Я обладаю большим опытом тестирования **desktop** приложений на разных стадиях разработки.
-Больше всего мне нравится тестировать бизнес-логику, результаты анализа данных, интеграции для других платформ.
+Обладаю навыками автоматизации тестирования.
 
 - 📫 Мои контакты:
   - EMail **alice-lilo@mail.ru**
@@ -11,11 +11,12 @@
 
     - https://career.habr.com/aliceperepelova
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlicePerepelova&show_icons=true&bg_color=00000000)
+  ### Проектики 🎓
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlicePerepelova&repo=ui_project&theme=blueberry&description=UI%20Project)](https://github.com/AlicePerepelova/ui_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlicePerepelova&repo=api_test&theme=blueberry&description=RESTful%20API%20Project)](https://github.com/AlicePerepelova/api_test)
 
 ### Мои инструменты и технологии:
-
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="logo/Intelij_IDEA.svg">
 <img width="6%" title="Java" src="logo/Java.svg">
@@ -32,3 +33,4 @@
 
 <!--END_SECTION:waka-->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlicePerepelova&show_icons=true&bg_color=00000000)
