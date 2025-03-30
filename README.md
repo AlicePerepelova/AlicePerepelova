@@ -11,12 +11,13 @@
 
     - https://career.habr.com/aliceperepelova
 
-  ### Проектики 🎓
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlicePerepelova&repo=ui_project&theme=blueberry&description=UI%20Project)](https://github.com/AlicePerepelova/ui_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlicePerepelova&repo=api_test&theme=blueberry&description=RESTful%20API%20Project)](https://github.com/AlicePerepelova/api_test)
 
 ### Мои инструменты и технологии:
+
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="logo/Intelij_IDEA.svg">
 <img width="6%" title="Java" src="logo/Java.svg">
@@ -32,5 +33,4 @@
 </p>
 
 <!--END_SECTION:waka-->
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlicePerepelova&show_icons=true&bg_color=00000000)
