@@ -13,7 +13,7 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlicePerepelova&repo=ui_project&theme=blueberry&description=UI%20Project)](https://github.com/AlicePerepelova/ui_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlicePerepelova&repo=ui_project&theme=blueberry&description=UI%20Project)](https://github.com/AlicePerepelova/ui_project_Portal_DA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlicePerepelova&repo=api_test&theme=blueberry&description=RESTful%20API%20Project)](https://github.com/AlicePerepelova/api_test)
 
 ### Мои инструменты и технологии:
